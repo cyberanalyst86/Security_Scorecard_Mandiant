@@ -1,0 +1,5 @@
+ssc_api:
+    api_token: xxxx
+mandiant_api:
+    APIv4_key: xxxx
+    APIv4_secret: xxxx
