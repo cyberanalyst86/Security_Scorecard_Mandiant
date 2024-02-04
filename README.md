@@ -1,6 +1,8 @@
 1.) Please install the required python libraries specified in requirements.txt (pip install -r requirements.txt). 
 
-2.) The program needs you to have subscription to Security Scorecard and Mandiant and the necessary API keys. If you do not have subscription to Mandiant, please remove it's associated code from the main program.  
+2.) Run main.py to run the program.
+
+2.) The program needs you to have subscription to Security Scorecard and Mandiant and the necessary API keys. If you do not have subscription to Mandiant, please remove it's associated code from main.py.  
 
 3.) The program requires you to input the industry, company name and company domain. 
 
